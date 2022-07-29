@@ -18,6 +18,7 @@ if operation == "1":
         if text[i]>='a' and text[i]<='z':
            sum = sum+1
 print("\nYour Name has = " + str(sum))
+
     if name >= 10:
         print("You're in class A ")
     else:
