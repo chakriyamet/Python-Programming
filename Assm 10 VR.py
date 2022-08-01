@@ -1,3 +1,7 @@
+#Çode from VR
+#Calculate the sequence number, user put the series length. 
+#Use for loop
+
 user = int(input("Enter the number of sequence you want!: "))
 a = 2
 b = 9
